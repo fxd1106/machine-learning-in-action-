@@ -1,2 +1,3 @@
 # machine-learning-in-action-
-Python 2.7
+# The examples in the book machine learning in action.
+# Using Python 2.7 for coding
